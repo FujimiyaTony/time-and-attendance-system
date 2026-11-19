@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+dataset/
+models/
+data/attendance.db
+data/faces.index
+data/names.json
+data/attendance_photos/
+attendance.xlsx
+attendance_*.xlsx
+attendance.csv
